@@ -42,8 +42,12 @@ main {
 }
 
 section.shopping {
-	width: 35%;
+	width: 40%;
 	margin: 0 auto;
+}
+
+form {
+	display: flex;
 }
 
 ul.shopping-list {
